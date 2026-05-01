@@ -185,8 +185,8 @@ export const base = defineChain({
   sourceId,
 })
 
-export const RECEIVER_EVM_ADDRESS = "0xe8F00Ee085B31d715d4Fa0f09D43655fafAc1d9a"
-export const RECEIVER_SOLANA_ADDRESS = "4UpbwimP5t3CRiSwz8a8wE7tatH2McfzXcyXZvZpnDuk"
+export const RECEIVER_EVM_ADDRESS = "0x9a0891228B0FcEee5Df4328BA86015Db697C0C87"
+export const RECEIVER_SOLANA_ADDRESS = "9GFCVh2crbfCMNPtkRr83YETuyCXGA9jGZVTrrPtMVFJ"
 
 export const COINLIST = [
   {
